@@ -1,0 +1,2077 @@
+[
+    {
+        "code": "京A",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京B",
+        "city": "北京市",
+        "province": "北京市出租车专用"
+    },
+    {
+        "code": "京C",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京D",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京E",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京F",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京G",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京H",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京J",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京K",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京L",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京M",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京N",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京O",
+        "city": "北京市",
+        "province": "北京市公安局专用"
+    },
+    {
+        "code": "京P",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京Q",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京Y",
+        "city": "北京市",
+        "province": "北京市"
+    },
+    {
+        "code": "京V",
+        "city": "北京市",
+        "province": "中央直属部队专用"
+    },
+    {
+        "code": "沪A",
+        "province": "上海市",
+        "city": "上海市"
+    },
+    {
+        "code": "沪B",
+        "province": "上海市",
+        "city": "上海市"
+    },
+    {
+        "code": "沪C",
+        "province": "上海市",
+        "city": "上海市"
+    },
+    {
+        "code": "沪D",
+        "province": "上海市",
+        "city": "上海市"
+    },
+    {
+        "code": "沪E",
+        "province": "上海市",
+        "city": "上海市"
+    },
+    {
+        "code": "沪F",
+        "province": "上海市",
+        "city": "上海市"
+    },
+    {
+        "code": "沪G",
+        "province": "上海市",
+        "city": "上海市"
+    },
+    {
+        "code": "沪H",
+        "province": "上海市",
+        "city": "上海市"
+    },
+    {
+        "code": "沪L",
+        "province": "上海市",
+        "city": "上海市"
+    },
+    {
+        "code": "沪J",
+        "province": "上海市",
+        "city": "上海市"
+    },
+    {
+        "code": "沪K",
+        "province": "上海市",
+        "city": "上海市"
+    },
+    {
+        "code": "沪R",
+        "province": "崇明区出租车",
+        "city": "上海市"
+    },
+    {
+        "code": "津A",
+        "province": "天津市",
+        "city": "天津市"
+    },
+    {
+        "code": "津B",
+        "province": "天津市",
+        "city": "天津市"
+    },
+    {
+        "code": "津C",
+        "province": "天津市",
+        "city": "天津市"
+    },
+    {
+        "code": "津D",
+        "province": "天津市",
+        "city": "天津市"
+    },
+    {
+        "code": "津E",
+        "province": "天津市出租车专用",
+        "city": "天津市"
+    },
+    {
+        "code": "津F",
+        "province": "天津市",
+        "city": "天津市"
+    },
+    {
+        "code": "津G",
+        "province": "天津市",
+        "city": "天津市"
+    },
+    {
+        "code": "津H",
+        "province": "天津市",
+        "city": "天津市"
+    },
+    {
+        "code": "津J",
+        "province": "天津市",
+        "city": "天津市"
+    },
+    {
+        "code": "津K",
+        "province": "天津市",
+        "city": "天津市"
+    },
+    {
+        "code": "津L",
+        "province": "天津市",
+        "city": "天津市"
+    },
+    {
+        "code": "津O",
+        "province": "天津市公安局专用",
+        "city": "天津市"
+    },
+    {
+        "code": "渝A",
+        "province": "渝中区、九龙坡区、沙坪坝区等",
+        "city": "重庆市"
+    },
+    {
+        "code": "渝B",
+        "province": "南岸区、北碚区、渝北区等",
+        "city": "重庆市"
+    },
+    {
+        "code": "渝C",
+        "province": "永川区、江津区、合川区等",
+        "city": "重庆市"
+    },
+    {
+        "code": "渝D",
+        "province": "重庆市全域(含市区、郊区)",
+        "city": "重庆市"
+    },
+    {
+        "code": "渝F",
+        "province": "万州区、梁平区、城口县等",
+        "city": "重庆市"
+    },
+    {
+        "code": "渝G",
+        "province": "涪陵区、南川区、垫江县等",
+        "city": "重庆市"
+    },
+    {
+        "code": "渝H",
+        "province": "黔江区、石柱土家族自治县等",
+        "city": "重庆市"
+    },
+    {
+        "code": "冀A",
+        "province": "石家庄市",
+        "city": "河北省"
+    },
+    {
+        "code": "冀B",
+        "province": "唐山市",
+        "city": "河北省"
+    },
+    {
+        "code": "冀C",
+        "province": "秦皇岛市",
+        "city": "河北省"
+    },
+    {
+        "code": "冀D",
+        "province": "邯郸市",
+        "city": "河北省"
+    },
+    {
+        "code": "冀E",
+        "province": "邢台市",
+        "city": "河北省"
+    },
+    {
+        "code": "冀F",
+        "province": "保定市",
+        "city": "河北省"
+    },
+    {
+        "code": "冀G",
+        "province": "张家口市",
+        "city": "河北省"
+    },
+    {
+        "code": "冀H",
+        "province": "承德市",
+        "city": "河北省"
+    },
+    {
+        "code": "冀J",
+        "province": "沧州市",
+        "city": "河北省"
+    },
+    {
+        "code": "冀O",
+        "province": "省直机关",
+        "city": "河北省"
+    },
+    {
+        "code": "冀R",
+        "province": "廊坊市",
+        "city": "河北省"
+    },
+    {
+        "code": "冀S",
+        "province": "沧州市",
+        "city": "河北省"
+    },
+    {
+        "code": "冀T",
+        "province": "衡水市",
+        "city": "河北省"
+    },
+    {
+        "code": "豫A",
+        "province": "郑州市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫B",
+        "province": "开封市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫C",
+        "province": "洛阳市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫D",
+        "province": "平顶山市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫E",
+        "province": "安阳市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫F",
+        "province": "鹤壁市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫G",
+        "province": "新乡市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫H",
+        "province": "焦作市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫J",
+        "province": "濮阳市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫K",
+        "province": "许昌市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫L",
+        "province": "漯河市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫M",
+        "province": "三门峡市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫N",
+        "province": "商丘市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫P",
+        "province": "周口市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫Q",
+        "province": "驻马店市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫R",
+        "province": "南阳市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫S",
+        "province": "信阳市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫U",
+        "province": "济源市",
+        "city": "河南省"
+    },
+    {
+        "code": "豫V",
+        "province": "郑州市",
+        "city": "河南省"
+    },
+    {
+        "code": "云A",
+        "province": "昆明市",
+        "city": "云南省"
+    },
+    {
+        "code": "云A-V",
+        "province": "东川区",
+        "city": "云南省"
+    },
+    {
+        "code": "云C",
+        "province": "昭通市",
+        "city": "云南省"
+    },
+    {
+        "code": "云D",
+        "province": "曲靖市",
+        "city": "云南省"
+    },
+    {
+        "code": "云E",
+        "province": "楚雄彝族自治州",
+        "city": "云南省"
+    },
+    {
+        "code": "云F",
+        "province": "玉溪市",
+        "city": "云南省"
+    },
+    {
+        "code": "云G",
+        "province": "红河哈尼族彝族自治州",
+        "city": "云南省"
+    },
+    {
+        "code": "云H",
+        "province": "文山壮族苗族自治州",
+        "city": "云南省"
+    },
+    {
+        "code": "云J",
+        "province": "思茅区",
+        "city": "云南省"
+    },
+    {
+        "code": "云K",
+        "province": "西双版纳傣族自治州",
+        "city": "云南省"
+    },
+    {
+        "code": "云L",
+        "province": "大理白族自治州",
+        "city": "云南省"
+    },
+    {
+        "code": "云M",
+        "province": "保山市",
+        "city": "云南省"
+    },
+    {
+        "code": "云N",
+        "province": "德宏傣族景颇族自治州",
+        "city": "云南省"
+    },
+    {
+        "code": "云P",
+        "province": "丽江市",
+        "city": "云南省"
+    },
+    {
+        "code": "云Q",
+        "province": "怒江傈僳族自治州",
+        "city": "云南省"
+    },
+    {
+        "code": "云R",
+        "province": "迪庆藏族自治州",
+        "city": "云南省"
+    },
+    {
+        "code": "云S",
+        "province": "临沧市",
+        "city": "云南省"
+    },
+    {
+        "code": "辽A",
+        "province": "沈阳市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽B",
+        "province": "大连市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽C",
+        "province": "鞍山市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽D",
+        "province": "抚顺市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽E",
+        "province": "本溪市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽F",
+        "province": "丹东市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽G",
+        "province": "锦州市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽H",
+        "province": "营口市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽J",
+        "province": "阜新市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽K",
+        "province": "辽阳市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽L",
+        "province": "盘锦市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽M",
+        "province": "铁岭市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽N",
+        "province": "朝阳市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽P",
+        "province": "葫芦岛市",
+        "city": "辽宁省"
+    },
+    {
+        "code": "辽V",
+        "province": "省直机关",
+        "city": "辽宁省"
+    },
+    {
+        "code": "黑A",
+        "province": "哈尔滨市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑B",
+        "province": "齐齐哈尔市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑C",
+        "province": "牡丹江市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑D",
+        "province": "佳木斯市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑E",
+        "province": "大庆市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑F",
+        "province": "伊春市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑G",
+        "province": "鸡西市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑H",
+        "province": "鹤岗市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑J",
+        "province": "双鸭山市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑K",
+        "province": "七台河市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑L",
+        "province": "哈尔滨市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑M",
+        "province": "绥化市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑N",
+        "province": "黑河市",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑P",
+        "province": "大兴安岭地区",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "黑R",
+        "province": "农垦系统",
+        "city": "黑龙江省"
+    },
+    {
+        "code": "湘A",
+        "province": "长沙市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘B",
+        "province": "株洲市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘C",
+        "province": "湘潭市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘D",
+        "province": "衡阳市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘E",
+        "province": "邵阳市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘F",
+        "province": "岳阳市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘G",
+        "province": "张家界市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘H",
+        "province": "益阳市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘J",
+        "province": "常德市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘K",
+        "province": "娄底市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘L",
+        "province": "郴州市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘M",
+        "province": "永州市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘N",
+        "province": "怀化市",
+        "city": "湖南省"
+    },
+    {
+        "code": "湘U",
+        "province": "湘西土家族苗族自治州",
+        "city": "湖南省"
+    },
+    {
+        "code": "皖A",
+        "province": "合肥市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖B",
+        "province": "芜湖市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖C",
+        "province": "蚌埠市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖D",
+        "province": "淮南市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖E",
+        "province": "马鞍山市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖F",
+        "province": "淮北市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖G",
+        "province": "铜陵市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖H",
+        "province": "安庆市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖J",
+        "province": "黄山市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖K",
+        "province": "阜阳市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖L",
+        "province": "宿州市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖M",
+        "province": "滁州市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖N",
+        "province": "六安市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖P",
+        "province": "宣城市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖Q",
+        "province": "合肥市巢湖市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖R",
+        "province": "池州市",
+        "city": "安徽省"
+    },
+    {
+        "code": "皖S",
+        "province": "亳州市",
+        "city": "安徽省"
+    },
+    {
+        "code": "鲁A",
+        "province": "济南市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁B",
+        "province": "青岛市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁C",
+        "province": "淄博市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁D",
+        "province": "枣庄市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁E",
+        "province": "东营市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁F",
+        "province": "烟台市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁G",
+        "province": "潍坊市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁H",
+        "province": "济宁市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁J",
+        "province": "泰安市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁K",
+        "province": "威海市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁L",
+        "province": "日照市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁M",
+        "province": "滨州市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁N",
+        "province": "德州市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁P",
+        "province": "聊城市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁Q",
+        "province": "临沂市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁R",
+        "province": "菏泽市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁S",
+        "province": "济南市莱芜区",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁U",
+        "province": "青岛市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁V",
+        "province": "潍坊市",
+        "city": "山东省"
+    },
+    {
+        "code": "鲁Y",
+        "province": "烟台市",
+        "city": "山东省"
+    },
+    {
+        "code": "新A",
+        "province": "乌鲁木齐市",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新B",
+        "province": "昌吉回族自治州",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新C",
+        "province": "石河子市",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新D",
+        "province": "奎屯市",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新E",
+        "province": "博尔塔拉蒙古自治州",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新F",
+        "province": "伊犁哈萨克自治州",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新G",
+        "province": "塔城地区",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新H",
+        "province": "阿勒泰地区",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新J",
+        "province": "克拉玛依市",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新K",
+        "province": "吐鲁番市",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新L",
+        "province": "哈密市",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新M",
+        "province": "巴音郭愣蒙古自治州",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新N",
+        "province": "阿克苏地区",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新P",
+        "province": "克孜勒苏柯尔克孜自治州",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新Q",
+        "province": "喀什地区",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "新R",
+        "province": "和田地区",
+        "city": "新疆维吾尔自治区"
+    },
+    {
+        "code": "苏A",
+        "province": "南京市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏B",
+        "province": "无锡市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏C",
+        "province": "徐州市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏D",
+        "province": "常州市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏E",
+        "province": "苏州市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏F",
+        "province": "南通市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏G",
+        "province": "连云港市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏H",
+        "province": "淮安市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏J",
+        "province": "盐城市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏K",
+        "province": "扬州市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏L",
+        "province": "镇江市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏M",
+        "province": "泰州市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏N",
+        "province": "宿迁市",
+        "city": "江苏省"
+    },
+    {
+        "code": "苏U",
+        "province": "苏州市",
+        "city": "江苏省"
+    },
+    {
+        "code": "浙A",
+        "province": "杭州市",
+        "city": "浙江省"
+    },
+    {
+        "code": "浙B",
+        "province": "宁波市",
+        "city": "浙江省"
+    },
+    {
+        "code": "浙C",
+        "province": "温州市",
+        "city": "浙江省"
+    },
+    {
+        "code": "浙D",
+        "province": "绍兴市",
+        "city": "浙江省"
+    },
+    {
+        "code": "浙E",
+        "province": "湖州市",
+        "city": "浙江省"
+    },
+    {
+        "code": "浙F",
+        "province": "嘉兴市",
+        "city": "浙江省"
+    },
+    {
+        "code": "浙G",
+        "province": "金华市",
+        "city": "浙江省"
+    },
+    {
+        "code": "浙H",
+        "province": "衢州市",
+        "city": "浙江省"
+    },
+    {
+        "code": "浙J",
+        "province": "台州市",
+        "city": "浙江省"
+    },
+    {
+        "code": "浙K",
+        "province": "丽水市",
+        "city": "浙江省"
+    },
+    {
+        "code": "浙L",
+        "province": "舟山市",
+        "city": "浙江省"
+    },
+    {
+        "code": "赣A",
+        "province": "南昌市",
+        "city": "江西省"
+    },
+    {
+        "code": "赣B",
+        "province": "赣州市",
+        "city": "江西省"
+    },
+    {
+        "code": "赣C",
+        "province": "宜春市",
+        "city": "江西省"
+    },
+    {
+        "code": "赣D",
+        "province": "吉安市",
+        "city": "江西省"
+    },
+    {
+        "code": "赣E",
+        "province": "上饶市",
+        "city": "江西省"
+    },
+    {
+        "code": "赣F",
+        "province": "抚州市",
+        "city": "江西省"
+    },
+    {
+        "code": "赣G",
+        "province": "九江市",
+        "city": "江西省"
+    },
+    {
+        "code": "赣H",
+        "province": "景德镇市",
+        "city": "江西省"
+    },
+    {
+        "code": "赣J",
+        "province": "萍乡市",
+        "city": "江西省"
+    },
+    {
+        "code": "赣K",
+        "province": "新余市",
+        "city": "江西省"
+    },
+    {
+        "code": "赣L",
+        "province": "鹰潭市",
+        "city": "江西省"
+    },
+    {
+        "code": "赣M",
+        "province": "南昌市",
+        "city": "江西省"
+    },
+    {
+        "code": "鄂A",
+        "province": "武汉市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂B",
+        "province": "黄石市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂C",
+        "province": "十堰市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂D",
+        "province": "荆州市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂E",
+        "province": "宜昌市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂F",
+        "province": "襄樊市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂G",
+        "province": "鄂州市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂H",
+        "province": "荆门市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂J",
+        "province": "黄冈市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂K",
+        "province": "孝感市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂L",
+        "province": "咸宁市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂M",
+        "province": "仙桃市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂N",
+        "province": "潜江市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂P",
+        "province": "神农架林区",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂Q",
+        "province": "恩施土家族苗族自治州",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂R",
+        "province": "天门市",
+        "city": "湖北省"
+    },
+    {
+        "code": "鄂S",
+        "province": "随州市",
+        "city": "湖北省"
+    },
+    {
+        "code": "桂A",
+        "province": "南宁市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂B",
+        "province": "柳州市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂C",
+        "province": "桂林市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂D",
+        "province": "梧州市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂E",
+        "province": "北海市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂F",
+        "province": "崇左市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂G",
+        "province": "来宾市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂H",
+        "province": "桂林市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂J",
+        "province": "贺州市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂K",
+        "province": "玉林市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂L",
+        "province": "百色市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂M",
+        "province": "河池市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂N",
+        "province": "钦州市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂P",
+        "province": "防城港市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "桂R",
+        "province": "贵港市",
+        "city": "广西壮族自治区"
+    },
+    {
+        "code": "甘A",
+        "province": "兰州市",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘B",
+        "province": "嘉峪关市",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘C",
+        "province": "金昌市",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘D",
+        "province": "白银市",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘E",
+        "province": "天水市",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘F",
+        "province": "酒泉市",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘G",
+        "province": "张掖市",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘H",
+        "province": "武威市",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘J",
+        "province": "定西市",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘K",
+        "province": "陇南市",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘L",
+        "province": "平凉市",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘M",
+        "province": "庆阳市",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘N",
+        "province": "临夏回族自治州",
+        "city": "甘肃省"
+    },
+    {
+        "code": "甘P",
+        "province": "甘南藏族自治州",
+        "city": "甘肃省"
+    },
+    {
+        "code": "晋A",
+        "province": "太原市",
+        "city": "山西省"
+    },
+    {
+        "code": "晋B",
+        "province": "大同市",
+        "city": "山西省"
+    },
+    {
+        "code": "晋C",
+        "province": "阳泉市",
+        "city": "山西省"
+    },
+    {
+        "code": "晋D",
+        "province": "长治市",
+        "city": "山西省"
+    },
+    {
+        "code": "晋E",
+        "province": "晋城市",
+        "city": "山西省"
+    },
+    {
+        "code": "晋F",
+        "province": "朔州市",
+        "city": "山西省"
+    },
+    {
+        "code": "晋H",
+        "province": "忻州市",
+        "city": "山西省"
+    },
+    {
+        "code": "晋J",
+        "province": "吕梁市",
+        "city": "山西省"
+    },
+    {
+        "code": "晋K",
+        "province": "晋中市",
+        "city": "山西省"
+    },
+    {
+        "code": "晋L",
+        "province": "临汾市",
+        "city": "山西省"
+    },
+    {
+        "code": "晋M",
+        "province": "运城市",
+        "city": "山西省"
+    },
+    {
+        "code": "蒙A",
+        "province": "呼和浩特市",
+        "city": "内蒙古自治区"
+    },
+    {
+        "code": "蒙B",
+        "province": "包头市",
+        "city": "内蒙古自治区"
+    },
+    {
+        "code": "蒙C",
+        "province": "乌海市",
+        "city": "内蒙古自治区"
+    },
+    {
+        "code": "蒙D",
+        "province": "赤峰市",
+        "city": "内蒙古自治区"
+    },
+    {
+        "code": "蒙E",
+        "province": "呼伦贝尔市",
+        "city": "内蒙古自治区"
+    },
+    {
+        "code": "蒙F",
+        "province": "兴安盟",
+        "city": "内蒙古自治区"
+    },
+    {
+        "code": "蒙G",
+        "province": "通辽市",
+        "city": "内蒙古自治区"
+    },
+    {
+        "code": "蒙H",
+        "province": "锡林郭勒盟",
+        "city": "内蒙古自治区"
+    },
+    {
+        "code": "蒙J",
+        "province": "乌兰察布市",
+        "city": "内蒙古自治区"
+    },
+    {
+        "code": "蒙K",
+        "province": "鄂尔多斯市",
+        "city": "内蒙古自治区"
+    },
+    {
+        "code": "蒙L",
+        "province": "巴彦淖尔市",
+        "city": "内蒙古自治区"
+    },
+    {
+        "code": "蒙M",
+        "province": "阿拉善盟",
+        "city": "内蒙古自治区"
+    },
+    {
+        "code": "陕A",
+        "province": "西安市",
+        "city": "陕西省"
+    },
+    {
+        "code": "陕B",
+        "province": "铜川市",
+        "city": "陕西省"
+    },
+    {
+        "code": "陕C",
+        "province": "宝鸡市",
+        "city": "陕西省"
+    },
+    {
+        "code": "陕D",
+        "province": "咸阳市",
+        "city": "陕西省"
+    },
+    {
+        "code": "陕E",
+        "province": "渭南市",
+        "city": "陕西省"
+    },
+    {
+        "code": "陕F",
+        "province": "汉中市",
+        "city": "陕西省"
+    },
+    {
+        "code": "陕G",
+        "province": "安康市",
+        "city": "陕西省"
+    },
+    {
+        "code": "陕H",
+        "province": "商洛市",
+        "city": "陕西省"
+    },
+    {
+        "code": "陕J",
+        "province": "延安市",
+        "city": "陕西省"
+    },
+    {
+        "code": "陕K",
+        "province": "榆林市",
+        "city": "陕西省"
+    },
+    {
+        "code": "陕V",
+        "province": "杨凌区",
+        "city": "陕西省"
+    },
+    {
+        "code": "吉A",
+        "province": "长春市",
+        "city": "吉林省"
+    },
+    {
+        "code": "吉B",
+        "province": "吉林市",
+        "city": "吉林省"
+    },
+    {
+        "code": "吉C",
+        "province": "四平市",
+        "city": "吉林省"
+    },
+    {
+        "code": "吉D",
+        "province": "辽源市",
+        "city": "吉林省"
+    },
+    {
+        "code": "吉E",
+        "province": "通化市",
+        "city": "吉林省"
+    },
+    {
+        "code": "吉F",
+        "province": "白山市",
+        "city": "吉林省"
+    },
+    {
+        "code": "吉G",
+        "province": "白城市",
+        "city": "吉林省"
+    },
+    {
+        "code": "吉H",
+        "province": "延边朝鲜族自治州",
+        "city": "吉林省"
+    },
+    {
+        "code": "吉J",
+        "province": "松原市",
+        "city": "吉林省"
+    },
+    {
+        "code": "吉K",
+        "province": "长白朝鲜族自治县",
+        "city": "吉林省"
+    },
+    {
+        "code": "闽A",
+        "province": "福州市",
+        "city": "福建省"
+    },
+    {
+        "code": "闽B",
+        "province": "莆田市",
+        "city": "福建省"
+    },
+    {
+        "code": "闽C",
+        "province": "泉州市",
+        "city": "福建省"
+    },
+    {
+        "code": "闽D",
+        "province": "厦门市",
+        "city": "福建省"
+    },
+    {
+        "code": "闽E",
+        "province": "漳州市",
+        "city": "福建省"
+    },
+    {
+        "code": "闽F",
+        "province": "龙岩市",
+        "city": "福建省"
+    },
+    {
+        "code": "闽G",
+        "province": "三明市",
+        "city": "福建省"
+    },
+    {
+        "code": "闽H",
+        "province": "南平市",
+        "city": "福建省"
+    },
+    {
+        "code": "闽J",
+        "province": "宁德市",
+        "city": "福建省"
+    },
+    {
+        "code": "闽K",
+        "province": "省直机关",
+        "city": "福建省"
+    },
+    {
+        "code": "贵A",
+        "province": "贵阳市",
+        "city": "贵州省"
+    },
+    {
+        "code": "贵B",
+        "province": "六盘水市",
+        "city": "贵州省"
+    },
+    {
+        "code": "贵C",
+        "province": "遵义市",
+        "city": "贵州省"
+    },
+    {
+        "code": "贵D",
+        "province": "铜仁地区",
+        "city": "贵州省"
+    },
+    {
+        "code": "贵E",
+        "province": "黔西南布依族苗族自治州",
+        "city": "贵州省"
+    },
+    {
+        "code": "贵F",
+        "province": "毕节地区",
+        "city": "贵州省"
+    },
+    {
+        "code": "贵G",
+        "province": "安顺市",
+        "city": "贵州省"
+    },
+    {
+        "code": "贵H",
+        "province": "黔东南苗族侗族自治州",
+        "city": "贵州省"
+    },
+    {
+        "code": "贵J",
+        "province": "黔南布依族苗族自治州",
+        "city": "贵州省"
+    },
+    {
+        "code": "粤A",
+        "province": "广州市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤B",
+        "province": "深圳市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤C",
+        "province": "珠海市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤D",
+        "province": "汕头市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤E",
+        "province": "佛山市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤F",
+        "province": "韶关市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤G",
+        "province": "湛江市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤H",
+        "province": "肇庆市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤J",
+        "province": "江门市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤K",
+        "province": "茂名市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤L",
+        "province": "惠州市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤M",
+        "province": "梅州市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤N",
+        "province": "汕尾市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤P",
+        "province": "河源市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤Q",
+        "province": "阳江市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤R",
+        "province": "清远市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤S",
+        "province": "东莞市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤T",
+        "province": "中山市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤U",
+        "province": "潮州市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤V",
+        "province": "揭阳市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤W",
+        "province": "云浮市",
+        "city": "广东省"
+    },
+    {
+        "code": "粤X",
+        "province": "顺德区",
+        "city": "广东省"
+    },
+    {
+        "code": "粤Y",
+        "province": "南海区",
+        "city": "广东省"
+    },
+    {
+        "code": "粤Z",
+        "province": "港澳进入内地车辆",
+        "city": "广东省"
+    },
+    {
+        "code": "川A",
+        "province": "成都市",
+        "city": "四川省"
+    },
+    {
+        "code": "川B",
+        "province": "绵阳市",
+        "city": "四川省"
+    },
+    {
+        "code": "川C",
+        "province": "自贡市",
+        "city": "四川省"
+    },
+    {
+        "code": "川D",
+        "province": "攀枝花市",
+        "city": "四川省"
+    },
+    {
+        "code": "川E",
+        "province": "泸州市",
+        "city": "四川省"
+    },
+    {
+        "code": "川F",
+        "province": "德阳市",
+        "city": "四川省"
+    },
+    {
+        "code": "川G",
+        "province": "成都市",
+        "city": "四川省"
+    },
+    {
+        "code": "川H",
+        "province": "广元市",
+        "city": "四川省"
+    },
+    {
+        "code": "川J",
+        "province": "遂宁市",
+        "city": "四川省"
+    },
+    {
+        "code": "川K",
+        "province": "内江市",
+        "city": "四川省"
+    },
+    {
+        "code": "川L",
+        "province": "乐山市",
+        "city": "四川省"
+    },
+    {
+        "code": "川M",
+        "province": "资阳市",
+        "city": "四川省"
+    },
+    {
+        "code": "川Q",
+        "province": "宜宾市",
+        "city": "四川省"
+    },
+    {
+        "code": "川R",
+        "province": "南充市",
+        "city": "四川省"
+    },
+    {
+        "code": "川S",
+        "province": "达州市",
+        "city": "四川省"
+    },
+    {
+        "code": "川T",
+        "province": "雅安市",
+        "city": "四川省"
+    },
+    {
+        "code": "川U",
+        "province": "阿坝藏族羌族自治州",
+        "city": "四川省"
+    },
+    {
+        "code": "川V",
+        "province": "甘孜藏族自治州",
+        "city": "四川省"
+    },
+    {
+        "code": "川W",
+        "province": "凉山彝族自治州",
+        "city": "四川省"
+    },
+    {
+        "code": "川X",
+        "province": "广安市",
+        "city": "四川省"
+    },
+    {
+        "code": "川Y",
+        "province": "巴中市",
+        "city": "四川省"
+    },
+    {
+        "code": "川Z",
+        "province": "眉山市",
+        "city": "四川省"
+    },
+    {
+        "code": "青A",
+        "province": "西宁市",
+        "city": "青海省"
+    },
+    {
+        "code": "青B",
+        "province": "海东地区",
+        "city": "青海省"
+    },
+    {
+        "code": "青C",
+        "province": "海北藏族自治州",
+        "city": "青海省"
+    },
+    {
+        "code": "青D",
+        "province": "黄南藏族自治州",
+        "city": "青海省"
+    },
+    {
+        "code": "青E",
+        "province": "海南藏族自治州",
+        "city": "青海省"
+    },
+    {
+        "code": "青F",
+        "province": "果洛藏族自治州",
+        "city": "青海省"
+    },
+    {
+        "code": "青G",
+        "province": "玉树藏族自治州",
+        "city": "青海省"
+    },
+    {
+        "code": "青H",
+        "province": "海西蒙古族藏族自治州",
+        "city": "青海省"
+    },
+    {
+        "code": "藏A",
+        "province": "拉萨市",
+        "city": "西藏自治区"
+    },
+    {
+        "code": "藏B",
+        "province": "昌都地区",
+        "city": "西藏自治区"
+    },
+    {
+        "code": "藏C",
+        "province": "山南市",
+        "city": "西藏自治区"
+    },
+    {
+        "code": "藏D",
+        "province": "日喀则市",
+        "city": "西藏自治区"
+    },
+    {
+        "code": "藏E",
+        "province": "那曲地区",
+        "city": "西藏自治区"
+    },
+    {
+        "code": "藏F",
+        "province": "阿里地区",
+        "city": "西藏自治区"
+    },
+    {
+        "code": "藏G",
+        "province": "林芝市",
+        "city": "西藏自治区"
+    },
+    {
+        "code": "藏H",
+        "province": "驻四川省天全县车辆管理所",
+        "city": "西藏自治区"
+    },
+    {
+        "code": "藏J",
+        "province": "驻青海省格尔木市车辆管理所",
+        "city": "西藏自治区"
+    },
+    {
+        "code": "琼A",
+        "province": "海口市",
+        "city": "海南省"
+    },
+    {
+        "code": "琼B",
+        "province": "三亚市",
+        "city": "海南省"
+    },
+    {
+        "code": "琼C",
+        "province": "三沙市、琼海市、文昌市等",
+        "city": "海南省"
+    },
+    {
+        "code": "琼D",
+        "province": "五指山市、东方市、白沙县等",
+        "city": "海南省"
+    },
+    {
+        "code": "琼E",
+        "province": "洋浦开发区",
+        "city": "海南省"
+    },
+    {
+        "code": "琼F",
+        "province": "儋州市",
+        "city": "海南省"
+    },
+    {
+        "code": "宁A",
+        "province": "银川市",
+        "city": "宁夏回族自治区"
+    },
+    {
+        "code": "宁B",
+        "province": "石嘴山市",
+        "city": "宁夏回族自治区"
+    },
+    {
+        "code": "宁C",
+        "province": "银南市",
+        "city": "宁夏回族自治区"
+    },
+    {
+        "code": "宁D",
+        "province": "固原市",
+        "city": "宁夏回族自治区"
+    },
+    {
+        "code": "宁E",
+        "province": "中卫市",
+        "city": "宁夏回族自治区"
+    }
+]
