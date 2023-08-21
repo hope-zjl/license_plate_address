@@ -16,6 +16,7 @@ fn main() {
     println!("==============================");
     println!("");
     println!("示例:京A    如需结束请输入 exit");
+    let mut log_info: Vec<String> = Vec::new();
     loop {
         println!("输入车牌...");
         let mut area = String::new();
@@ -30,6 +31,13 @@ fn main() {
         {
             Some(index) => {
                 let cities_list = &cities[index];
+                log_info.push(
+                    cities_list.code.to_string()
+                        + "| "
+                        + &cities_list.city.to_string()
+                        + "| "
+                        + &cities_list.province.to_string(),
+                );
                 println!(
                     "{} 属于{}, {}",
                     cities_list.code, cities_list.city, cities_list.province
@@ -38,7 +46,12 @@ fn main() {
             None => println!("无"),
         }
     }
+    println!("历史查询");
 
+    for data in log_info {
+        println!("{}", data);
+    }
+    println!("");
     println!("请按下回车键关闭窗口...");
     let mut buffer = String::new();
     std::io::stdin().read_line(&mut buffer).unwrap();
